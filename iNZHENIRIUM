@@ -1,4 +1,5 @@
 
+ Как видите я его отредактировал
 #include <iostream>
 using namespace std;
 int main() {
